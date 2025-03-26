@@ -1,0 +1,22 @@
+# Bibliotecas principais para análise de dados e visualização
+numpy
+pandas
+matplotlib
+seaborn
+
+# Bibliotecas para machine learning
+scikit-learn
+xgboost
+lightgbm
+catboost
+imbalanced-learn
+
+pycaret[full]
+
+# Outras bibliotecas úteis
+joblib
+openpyxl
+plotly
+shap
+lime
+category_encoders 
